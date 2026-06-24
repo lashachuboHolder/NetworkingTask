@@ -26,6 +26,10 @@ after it was turned off the A6: device changed to 16: which removed the D6: from
 
 ![16](16.png)
 
+then i searched for the SSID of that
+
+![patriki](patriki.png)
+
 # Answer
 
 Randomized MAC: A6:EA:E2:5C:1E:06
